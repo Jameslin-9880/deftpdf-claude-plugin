@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "deftpdf": {
+      "type": "http",
+      "url": "https://mcp.deftpdf.com/mcp"
+    }
+  }
+}
