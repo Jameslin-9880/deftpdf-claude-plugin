@@ -1,0 +1,26 @@
+{
+  "name": "deftpdf",
+  "version": "0.1.1",
+  "description": "Compress, OCR, convert, merge, and split PDFs with your DeftPDF account.",
+  "author": {
+    "name": "Sictec Infotech Inc",
+    "email": "support@deftpdf.com",
+    "url": "https://deftpdf.com"
+  },
+  "homepage": "https://deftpdf.com",
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://mcp.deftpdf.com/support",
+  "privacyPolicyUrl": "https://mcp.deftpdf.com/privacy",
+  "termsOfServiceUrl": "https://deftpdf.com/terms",
+  "keywords": [
+    "pdf",
+    "compression",
+    "ocr",
+    "word",
+    "merge",
+    "split"
+  ],
+  "displayName": "DeftPDF",
+  "repository": "https://github.com/Jameslin-9880/deftpdf-claude-plugin",
+  "documentationUrl": "https://github.com/Jameslin-9880/deftpdf-claude-plugin#readme"
+}

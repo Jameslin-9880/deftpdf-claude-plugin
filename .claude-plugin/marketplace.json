@@ -1,0 +1,15 @@
+{
+  "name": "sictec-deftpdf",
+  "description": "DeftPDF PDF processing for Claude Code.",
+  "owner": {
+    "name": "Sictec Infotech Inc",
+    "email": "support@deftpdf.com"
+  },
+  "plugins": [
+    {
+      "name": "deftpdf",
+      "source": "./",
+      "description": "Compress, OCR, convert, merge, and split PDFs with your DeftPDF account."
+    }
+  ]
+}
